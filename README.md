@@ -1,1 +1,4 @@
 # ProyectoSprint_7
+Este proyecto se realiza una página que se sube en render.com, con la ayuda de librerias de Python que puedes ver en el archivo "requirements.txt".
+En la página creada realizamos una exploración sobre un dataset que abarca los datos de vehículos como información del precio de venta, modelo, año del modelo, el tipo de vehículo, etc.
+Exploramos estos datos a través de gráficas interactivas y desplegables mediante botones para poder desplegar uno solo o con casillas de selcción donde puedes mostrar las gráficas que quieras con cada casilla, tenemos difentes tipos de gráficos con los que puedes ver diferente distribuciones o comparaciones usando los datos sobre los vehículos.
